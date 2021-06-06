@@ -7,6 +7,7 @@
 
 [![Travis build
 status](https://travis-ci.com/melissa-wong/pomcheckr.svg?branch=main)](https://travis-ci.com/melissa-wong/pomcheckr)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/pomcheckr)](https://cran.r-project.org/package=pomcheckr)
 <!-- badges: end -->
 
 The goal of pomcheckr is to implement the method described by [UCLA
@@ -17,12 +18,12 @@ logit model.
 
 ## Installation
 
-<!--You can install the released version of pomcheckr from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of pomcheckr from
+[CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("pomcheckr")
 ```
--->
 
 You can install the development version from
 [GitHub](https://github.com/) with:
